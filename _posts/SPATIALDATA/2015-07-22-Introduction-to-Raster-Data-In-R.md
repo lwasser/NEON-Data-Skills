@@ -62,7 +62,7 @@ Download the raster and *in situ* collected vegetation structure data:
 
 <p>The LiDAR and imagery data used to create the rasters in this dataset were 
 collected over the San Joaquin field site located in California (NEON Domain 17) 
-and processed at <a href="http://www.neoninc.org" target="_blank" >NEON </a> 
+and processed at <a href="http://www.neonscience.org" target="_blank" >NEON </a> 
 headquarters. The entire dataset can be accessed by request from the NEON website.</p>  
 
 <h4>Recommended Pre-Lesson Reading</h4>
@@ -162,8 +162,8 @@ Let's change that.
 ## About UTM
 
 <figure>
-   <a href="http://upload.wikimedia.org/wikipedia/en/thumb/5/57/Utm-zones.svg/720px-Utm-zones.svg.png
-"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/5/57/Utm-zones.svg/720px-Utm-zones.svg.png
+   <a href="https://upload.wikimedia.org/wikipedia/commons/8/8d/Utm-zones-USA.svg
+"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Utm-zones-USA.svg
 "></a>
  <figcaption>The UTM coordinate reference system breaks the world into 60 latitude zones.</figcaption>
 </figure>

@@ -12,7 +12,8 @@ mainTag: lidar
 tutorialSeries: [intro-lidar-r-series]
 authors: [Leah A. Wasser]
 permalink: /lidar-data/online-data-viewer/
-description: "Learn the basics of how a LiDAR works and what a LiDAR system measures. Explore some LiDAR data using free online tools."
+description: "Learn the basics of how a LiDAR works and what a LiDAR system 
+measures. Explore some LiDAR data using free online tools."
 image:
   feature: lidar_GrandMesa.png
   credit: LiDAR data collected over Grand Mesa, Colorado - National Ecological Observatory Network (NEON)
@@ -109,7 +110,7 @@ In addition to intensity values, these lidar data also have a classification val
 - 5 High Vegetation
 - 6 Building
 
-{% include _images_nolink.html url="../../images/plasio_ColorsKendra.png" description="Blue and Orange gradient color scheme submitted by Kendra Sand. Which color scheme is your favorite? email screenshots to: lwasser at neoninc.org" %}
+{% include _images_nolink.html url="../../images/plasio_ColorsKendra.png" description="Blue and Orange gradient color scheme submitted by Kendra Sand. Which color scheme is your favorite? Email screenshots to neondataskills -AT- BattelleEcology.org" %}
 
 In this case, these data are classified as either ground, or non-ground. To view the points, colored by class:
 
@@ -137,14 +138,5 @@ Finally, spend some time exploring the data. what features do you see in this da
 *	What is the <a href="http://www.asprs.org/Committee" target="_blank"> las file format</a>?
 *	<a href="http://laspy.readthedocs.org/en/latest/tut_background.html" target="_blank"> Las: python ingest</a>
 *	<a href="http://www.asprs.org/a/society/committees/standards/asprs_las_spec_v13.pdf" target="_blank"> las v1.3 specifications</a>
-
-
-## Use Images From The LiDAR Data Image Gallery In Your Presentations & Teaching! ##
-
-
-<iframe width="100%" height="500px" frameborder="0" scrolling="no" src="http://flickrit.com/slideshowholder.php?height=75&size=big&setId=72157648481541867&caption=true&theme=1&thumbnails=1&transition=1&layoutType=responsive&sort=0" ></iframe>
-
-
-
 
 
